@@ -13,12 +13,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-<distributionManagement>
-  <repository>
-    <id>central_nexus</id>
-    <url>http://localhost:8081/content/repositories/central_nexus</url>
-  </repository>
-</distributionManagement>
+
 <distributionManagement>
   <repository>
     <id>maven_project</id>
