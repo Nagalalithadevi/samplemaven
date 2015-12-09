@@ -19,6 +19,12 @@
     <url>http://localhost:8081/content/repositories/central_nexus</url>
   </repository>
 </distributionManagement>
+<distributionManagement>
+  <repository>
+    <id>maven_project</id>
+    <url>http://localhost:8081/content/repositories/maven_project</url>
+  </repository>
+</distributionManagement>
 
   <dependencies>
     <dependency>
